@@ -1,0 +1,16 @@
+{
+  "name": "react-todo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/sebherzinger/react-todo.git",
+    "type": "git"
+  },
+  "author": "Sebastian Lukas Herzinger <sebastian.herzinger@netural.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-sass": "^2.3.2"
+  }
+}
